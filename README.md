@@ -108,6 +108,24 @@ Run migrations:
 alembic upgrade head
 ```
 
+## Screenshots
+
+### Swagger Documentation
+![Swagger Documentation](screenshots/swagger-home.png)
+
+### Login Endpoint
+![Login Endpoint](screenshots/login-endpoint.png)
+
+### JWT Authentication
+![JWT Authentication](screenshots/jwt-auth.png)
+
+### Authorisation
+![Authorised](screenshots/Authorized.png)
+
+### Todo CRUD Operations
+![Todo CRUD](screenshots/todo-crud.png)
+
+
 ## Future Improvements
 
 - Frontend Integration
